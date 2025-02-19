@@ -30,8 +30,8 @@ Este projeto é um sistema simples para controle de gastos, permitindo cadastrar
 ### 1️⃣ Clonar o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone [https://github.com/Leandrinho-Alvarenga/Controle_Financeiro.git]
+cd Controle_Financeiro
 ```
 
 ### 2️⃣ Instalar dependências
